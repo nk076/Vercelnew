@@ -1,0 +1,17 @@
+{ 
+
+   "redirects": [ 
+
+     { 
+
+       "source": "/post/:slug*", 
+
+       "destination": "https://gainjobz.com/:slug*", 
+
+       "permanent": true 
+
+     } 
+
+   ] 
+
+ }
